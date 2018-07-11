@@ -1,15 +1,12 @@
-/* TODO:
-* Cleaner code
-* Use Google Style font
-*/
 html, body {
     height: 100%;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
+
 body {
-    background: linear-gradient(rgb(130, 0, 255), rgb(0, 162, 255));
+    background: linear-gradient(rgb(130, 0, 255), rgb(0, 162, 255)) no-repeat cover;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box
 }
